@@ -1,0 +1,13 @@
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.Forms.LoginForm.resources
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.Properties.Resources.resources
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.csproj.GenerateResource.cache
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.csproj.CoreCompileInputs.cache
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.csproj.AssemblyReference.cache
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.Forms.MainForm.resources
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\bin\Debug\BazaDeDateFeroviara.exe.config
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\bin\Debug\BazaDeDateFeroviara.exe
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\bin\Debug\BazaDeDateFeroviara.pdb
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.exe
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.pdb
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.Forms.InsertForm.resources
+C:\politeh\anul 3\sem1\BD\BazaDeDateFeroviara\BazaDeDateFeroviara\obj\Debug\BazaDeDateFeroviara.Forms.UpdateForm.resources
